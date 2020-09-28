@@ -1,0 +1,47 @@
+div {
+    height: 200px;
+    border: 5px solid rgb(132, 46, 212);
+    background-color: white;
+    border-radius: 25% 10%;
+    }
+
+h1 {
+    font-family: Impact, fantasy;
+    margin-left: 20px;
+    position: absolute;
+    font-style: oblique;
+    font-size: 40px;
+    }
+
+img { 
+    margin-left: auto;
+    margin-right: auto;
+    width: 11em;
+    }
+
+body {
+    color:black;
+    background-color:white;
+    background-image:url(https://colorlib.com/wp/wp-content/uploads/sites/2/404-error-template-6.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    }
+
+p {
+    font-family: Impact, fantasy;
+    margin-left: 20px;
+    font-style: bold;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 30px;
+    border-color: blueviolet;
+    }
+    
+footer{
+    position:absolute;
+    bottom:0;
+    width:100%;
+    padding-top:50px;
+    height:50px;
+    margin-bottom: 175px;
+    }
